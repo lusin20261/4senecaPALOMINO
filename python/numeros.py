@@ -1,0 +1,8 @@
+print("--------------mi calculadora--------------------")
+W = input("ingresa un numero :") 
+E = input("ingresa tu segundo numero") 
+W = int(W) 
+E = int(E) 
+print("la sustraccion es : " ,E-W) 
+print("la adicion es :" ,E+W) 
+print("---------------gracias---------------------------")
